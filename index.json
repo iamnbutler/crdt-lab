@@ -1,5 +1,17 @@
 [
   {
+    "id": "2026-09-15T17-22-04.084Z-993e45c",
+    "timestamp": "2026-09-15T17:22:04.084Z",
+    "revision": "993e45c29d7e0f8ea4e0c992acddac16981493af",
+    "hardware": "linux-x64-Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz"
+  },
+  {
+    "id": "2026-09-15T17-10-07.176Z-35ca8ae",
+    "timestamp": "2026-09-15T17:10:07.176Z",
+    "revision": "35ca8ae15690594db8a982b6fc2dc44869b2561b",
+    "hardware": "darwin-arm64-Apple M4 Max"
+  },
+  {
     "id": "2026-09-15T16-35-43.177Z-b5b8937",
     "timestamp": "2026-09-15T16:35:43.177Z",
     "revision": "b5b89370d34950abb8ce3820ecbaaf66f435eaee",
