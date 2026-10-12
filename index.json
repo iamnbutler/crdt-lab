@@ -1,5 +1,11 @@
 [
   {
+    "id": "2026-10-12T18-03-13.340Z-993e45c",
+    "timestamp": "2026-10-12T18:03:13.340Z",
+    "revision": "993e45c29d7e0f8ea4e0c992acddac16981493af",
+    "hardware": "linux-x64-AMD EPYC 7763 64-Core Processor"
+  },
+  {
     "id": "2026-10-05T17-14-20.462Z-993e45c",
     "timestamp": "2026-10-05T17:14:20.462Z",
     "revision": "993e45c29d7e0f8ea4e0c992acddac16981493af",
