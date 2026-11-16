@@ -1,5 +1,11 @@
 [
   {
+    "id": "2026-11-16T18-41-45.168Z-993e45c",
+    "timestamp": "2026-11-16T18:41:45.168Z",
+    "revision": "993e45c29d7e0f8ea4e0c992acddac16981493af",
+    "hardware": "linux-x64-Intel(R) Xeon(R) 6975P-C"
+  },
+  {
     "id": "2026-11-09T18-56-56.044Z-993e45c",
     "timestamp": "2026-11-09T18:56:56.044Z",
     "revision": "993e45c29d7e0f8ea4e0c992acddac16981493af",
